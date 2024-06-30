@@ -1,6 +1,5 @@
-# mvvm_news_app
+#news_app
 
-![Flutter News App](https://github.com/amer787/flutter-news-app-mvvm/blob/main/screenshots/newsApp.png)
 
 # Flutter News App 
 News App developed with Flutter and API from [News API](https://newsapi.org)
